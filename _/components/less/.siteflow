@@ -1,0 +1,610 @@
+{
+  "id" : "00000000-0000-0000-0000-000000000000",
+  "javascriptIndentation" : 4,
+  "files" : {
+    "scaffolding.less" : {
+      "output" : "scaffolding.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/pagination.less" : {
+      "output" : "mixins\/pagination.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "labels.less" : {
+      "output" : "labels.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/table-row.less" : {
+      "output" : "mixins\/table-row.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/reset-text.less" : {
+      "output" : "mixins\/reset-text.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "carousel.less" : {
+      "output" : "carousel.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/vendor-prefixes.less" : {
+      "output" : "mixins\/vendor-prefixes.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "type.less" : {
+      "output" : "type.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/text-overflow.less" : {
+      "output" : "mixins\/text-overflow.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "glyphicons.less" : {
+      "output" : "glyphicons.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/hide-text.less" : {
+      "output" : "mixins\/hide-text.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "tooltip.less" : {
+      "output" : "tooltip.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/progress-bar.less" : {
+      "output" : "mixins\/progress-bar.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "thumbnails.less" : {
+      "output" : "thumbnails.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "popovers.less" : {
+      "output" : "popovers.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "code.less" : {
+      "output" : "code.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/image.less" : {
+      "output" : "mixins\/image.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "wells.less" : {
+      "output" : "wells.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/list-group.less" : {
+      "output" : "mixins\/list-group.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "navbar.less" : {
+      "output" : "navbar.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "theme.less" : {
+      "imports" : [
+        "variables.less",
+        "mixins.less"
+      ],
+      "output" : "theme.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "input-groups.less" : {
+      "output" : "input-groups.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "button-groups.less" : {
+      "output" : "button-groups.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "dropdowns.less" : {
+      "output" : "dropdowns.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/forms.less" : {
+      "output" : "mixins\/forms.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "alerts.less" : {
+      "output" : "alerts.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "close.less" : {
+      "output" : "close.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "badges.less" : {
+      "output" : "badges.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "tables.less" : {
+      "output" : "tables.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/border-radius.less" : {
+      "output" : "mixins\/border-radius.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "breadcrumbs.less" : {
+      "output" : "breadcrumbs.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "modals.less" : {
+      "output" : "modals.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/tab-focus.less" : {
+      "output" : "mixins\/tab-focus.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "pagination.less" : {
+      "output" : "pagination.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "component-animations.less" : {
+      "output" : "component-animations.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "progress-bars.less" : {
+      "output" : "progress-bars.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/labels.less" : {
+      "output" : "mixins\/labels.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "buttons.less" : {
+      "output" : "buttons.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins.less" : {
+      "imports" : [
+        "mixins\/hide-text.less",
+        "mixins\/opacity.less",
+        "mixins\/image.less",
+        "mixins\/labels.less",
+        "mixins\/reset-filter.less",
+        "mixins\/resize.less",
+        "mixins\/responsive-visibility.less",
+        "mixins\/size.less",
+        "mixins\/tab-focus.less",
+        "mixins\/reset-text.less",
+        "mixins\/text-emphasis.less",
+        "mixins\/text-overflow.less",
+        "mixins\/vendor-prefixes.less",
+        "mixins\/alerts.less",
+        "mixins\/buttons.less",
+        "mixins\/panels.less",
+        "mixins\/pagination.less",
+        "mixins\/list-group.less",
+        "mixins\/nav-divider.less",
+        "mixins\/forms.less",
+        "mixins\/progress-bar.less",
+        "mixins\/table-row.less",
+        "mixins\/background-variant.less",
+        "mixins\/border-radius.less",
+        "mixins\/gradients.less",
+        "mixins\/clearfix.less",
+        "mixins\/center-block.less",
+        "mixins\/nav-vertical-align.less",
+        "mixins\/grid-framework.less",
+        "mixins\/grid.less"
+      ],
+      "output" : "mixins.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "responsive-embed.less" : {
+      "output" : "responsive-embed.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/clearfix.less" : {
+      "output" : "mixins\/clearfix.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/background-variant.less" : {
+      "output" : "mixins\/background-variant.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "navs.less" : {
+      "output" : "navs.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "print.less" : {
+      "output" : "print.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/nav-divider.less" : {
+      "output" : "mixins\/nav-divider.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/reset-filter.less" : {
+      "output" : "mixins\/reset-filter.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/panels.less" : {
+      "output" : "mixins\/panels.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/text-emphasis.less" : {
+      "output" : "mixins\/text-emphasis.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "forms.less" : {
+      "output" : "forms.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "list-group.less" : {
+      "output" : "list-group.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "bootstrap.less" : {
+      "imports" : [
+        "variables.less",
+        "mixins.less",
+        "normalize.less",
+        "print.less",
+        "glyphicons.less",
+        "scaffolding.less",
+        "type.less",
+        "code.less",
+        "grid.less",
+        "tables.less",
+        "forms.less",
+        "buttons.less",
+        "component-animations.less",
+        "dropdowns.less",
+        "button-groups.less",
+        "input-groups.less",
+        "navs.less",
+        "navbar.less",
+        "breadcrumbs.less",
+        "pagination.less",
+        "pager.less",
+        "labels.less",
+        "badges.less",
+        "jumbotron.less",
+        "thumbnails.less",
+        "alerts.less",
+        "progress-bars.less",
+        "media.less",
+        "list-group.less",
+        "panels.less",
+        "responsive-embed.less",
+        "wells.less",
+        "close.less",
+        "modals.less",
+        "tooltip.less",
+        "popovers.less",
+        "carousel.less",
+        "utilities.less",
+        "responsive-utilities.less"
+      ],
+      "output" : "bootstrap.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "grid.less" : {
+      "output" : "grid.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/nav-vertical-align.less" : {
+      "output" : "mixins\/nav-vertical-align.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/opacity.less" : {
+      "output" : "mixins\/opacity.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/grid-framework.less" : {
+      "output" : "mixins\/grid-framework.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/size.less" : {
+      "output" : "mixins\/size.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "jumbotron.less" : {
+      "output" : "jumbotron.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/center-block.less" : {
+      "output" : "mixins\/center-block.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/gradients.less" : {
+      "output" : "mixins\/gradients.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/grid.less" : {
+      "output" : "mixins\/grid.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "utilities.less" : {
+      "output" : "utilities.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/buttons.less" : {
+      "output" : "mixins\/buttons.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/alerts.less" : {
+      "output" : "mixins\/alerts.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "pager.less" : {
+      "output" : "pager.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "media.less" : {
+      "output" : "media.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/resize.less" : {
+      "output" : "mixins\/resize.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "mixins\/responsive-visibility.less" : {
+      "output" : "mixins\/responsive-visibility.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "normalize.less" : {
+      "output" : "normalize.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "responsive-utilities.less" : {
+      "output" : "responsive-utilities.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "panels.less" : {
+      "output" : "panels.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    },
+    "variables.less" : {
+      "output" : "variables.css",
+      "profiles" : {
+        "less" : "00000000-0000-0000-0000-000000000000"
+      }
+    }
+  },
+  "flows" : {
+    "stylus" : {
+      "stylus" : "00000000-0000-0000-0000-000000000000",
+      "output" : "*.css"
+    },
+    "sass" : {
+      "sass" : "00000000-0000-0000-0000-000000000000",
+      "output" : "*.css"
+    },
+    "coffee" : {
+      "coffee" : "00000000-0000-0000-0000-000000000000",
+      "jshint" : "00000000-0000-0000-0000-000000000000",
+      "output" : "*.js",
+      "uglify" : "00000000-0000-0000-0000-000000000000"
+    },
+    "jinja" : {
+      "jinja" : "00000000-0000-0000-0000-000000000000",
+      "output" : "*"
+    },
+    "less" : {
+      "less" : "00000000-0000-0000-0000-000000000000",
+      "output" : "*.css"
+    },
+    "css" : {
+      "output" : "*.out.css"
+    },
+    "js" : {
+      "jshint" : "00000000-0000-0000-0000-000000000000",
+      "uglify" : "00000000-0000-0000-0000-000000000000",
+      "output" : "*.out.js"
+    }
+  },
+  "profiles" : {
+    "stylus" : {
+      "00000000-0000-0000-0000-000000000000" : {
+        "mediaquery" : false,
+        "name" : "Default Stylus Profile",
+        "comments" : false,
+        "format" : 1
+      }
+    },
+    "coffee" : {
+      "00000000-0000-0000-0000-000000000000" : {
+        "name" : "Default CoffeeScript Profile",
+        "bare" : false
+      }
+    },
+    "sass" : {
+      "00000000-0000-0000-0000-000000000000" : {
+        "name" : "Default Sass Profile",
+        "style" : "compressed",
+        "debug" : 0
+      }
+    },
+    "jshint" : {
+      "00000000-0000-0000-0000-000000000000" : {
+        "name" : "Default JSHint Profile",
+        "options" : [
+          "undef",
+          "unused",
+          "bitwise",
+          "curly",
+          "eqeqeq",
+          "latedef",
+          "newcap",
+          "noarg",
+          "nonew",
+          "trailing",
+          "browser",
+          "jquery"
+        ],
+        "globals" : ""
+      }
+    },
+    "less" : {
+      "00000000-0000-0000-0000-000000000000" : {
+        "imports" : false,
+        "mediaquery" : false,
+        "name" : "Default Less Profile",
+        "comments" : false,
+        "format" : 1
+      }
+    },
+    "jinja" : {
+      "00000000-0000-0000-0000-000000000000" : {
+        "name" : "Default Jinja Profile",
+        "autoescape" : false
+      }
+    },
+    "uglify" : {
+      "00000000-0000-0000-0000-000000000000" : {
+        "name" : "Default UglifyJS Profile",
+        "options" : [
+          "--mangle",
+          "--compress",
+          "beautify"
+        ]
+      }
+    }
+  },
+  "version" : 10100
+}
